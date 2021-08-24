@@ -74,9 +74,5 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 
-
-/Saved
-/Intermediate
-/.vs
-/Build
-/Plugins
+# etc
+Content/Maps/Jungle.umap
