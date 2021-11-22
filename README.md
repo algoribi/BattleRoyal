@@ -1,6 +1,7 @@
 # Battle Royal Project
 
 > Create a Battle Royale game using Unreal Engine 4
+> 이 프로젝트의 진행 과정은 **[TIL - UnrealEngine](https://github.com/algoribi/TIL/blob/main/UnrealEngine/BattleRoyal_project/README.md)**에 정리되어 있습니다.
 
 ## 목차
 
