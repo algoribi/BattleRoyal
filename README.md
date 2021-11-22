@@ -42,6 +42,7 @@
 ## 프로젝트에 도움을 받은 글
 
 - [언리얼 엔진 공식 네이버 카페](https://cafe.naver.com/unrealenginekr)
+- [인디게임 개발자 쉼터 인디터 네이버 카페](https://cafe.naver.com/indiedev)
 - 친절한효자손 님의 글 : [3D게임 매핑시 필요한 노멀맵을 만들어 주는 사이트](https://rgy0409.tistory.com/503)
 
 ## 문의
