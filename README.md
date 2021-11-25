@@ -2,7 +2,7 @@
 
 > Create a Battle Royale game using Unreal Engine 4
 
-- 이 프로젝트의 진행 과정은 **[TIL - UnrealEngine](https://github.com/algoribi/TIL/blob/main/UnrealEngine/BattleRoyal_project/README.md)** 에 정리되어 있습니다.
+- 이 프로젝트의 진행 과정은 **[TIL - UnrealEngine](https://github.com/algoribi/TIL/blob/main/UnrealEngine/BattleRoyal_project)** 에 정리되어 있습니다.
 
 ## 목차
 
@@ -16,7 +16,7 @@
 
 - FPS의 한 장르인 배틀로얄 게임을 만들어보며 Unreal Engine 4를 통한 게임 개발을 배우는 것을 목표로 한다.
 - 서버를 AWS(Amazon Web Services)에 올려 친구와 함께 플레이하는 것을 최종 목표로 한다.
-- 프로젝트의 진행 과정은 개인 Github **[TIL - UnrealEngine](https://github.com/algoribi/TIL/blob/main/UnrealEngine/BattleRoyal_project/README.md)** 카테고리에 정리해 놓는다.
+- 프로젝트의 진행 과정은 개인 Github **[TIL - UnrealEngine](https://github.com/algoribi/TIL/blob/main/UnrealEngine/BattleRoyal_project)** 카테고리에 정리해 놓는다.
 
 ## 개발 환경
 
